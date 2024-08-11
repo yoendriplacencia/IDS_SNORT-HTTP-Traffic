@@ -14,3 +14,7 @@ We have to create the new local rules in order to detect all TCP 80 traffic
 With this step we are able to detect and initiate the new rules and plugins
 
 ![Screenshot 2024-08-11 143605](https://github.com/user-attachments/assets/52313b78-c9ff-480f-aa52-3b27dc7a3131)
+
+![Screenshot 2024-08-11 143926](https://github.com/user-attachments/assets/b9c85dba-8b3c-48b2-91fa-781dda04b1d9)
+
+# 4- 
