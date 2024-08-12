@@ -1,1 +1,7 @@
-teste
+## Command line to open the the local rule document:
+  ___________sudo gedit local.rules_______________
+
+## Command line to run the local rules:
+____________sudo snort -c local.rules -A full -l . -r { "mx-3.pcap" }___________
+
+## Comman line 
