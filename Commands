@@ -4,4 +4,5 @@
 ## Command line to run the local rules:
 ____________sudo snort -c local.rules -A full -l . -r { "mx-3.pcap" }___________
 
-## Comman line 
+## Comman line to read specific Snort_log_file:
+____________sudo snort -r {"snort.log.1723400013"} -n {"63"}_____________ 
