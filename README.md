@@ -17,7 +17,7 @@ With this step we are able to detect and initiate the new rules and plugins. Fin
 
 ![Screenshot 2024-08-11 143926](https://github.com/user-attachments/assets/b9c85dba-8b3c-48b2-91fa-781dda04b1d9)
 
-# 4- Read especific Snort_log_file 
+# 4- Read specific Snort_log_file 
 If you need to access to a specific package, you need to add the command " -ntc {packet number} " after the snort log file.
 
 ![Screenshot 2024-08-11 191642](https://github.com/user-attachments/assets/24e3b431-b1bd-4dc9-ab11-45f68ddbf929)
